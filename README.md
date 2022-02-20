@@ -1,2 +1,2 @@
 # hello-world
-Saying hello to world
+Im a student and intrested in hacking
