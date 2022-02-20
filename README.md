@@ -1,3 +1,2 @@
 # hello-world
-Im a student and intrested in hacking
- 
+Im a student and intrested in hacking. 
